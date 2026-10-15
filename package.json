@@ -1,0 +1,15 @@
+json
+{
+  "name": "society-water-portal",
+  "version": "1.0.0",
+  "description": "Prepaid Water Management Cloud Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mqtt": "^5.5.0",
+    "pg": "^8.11.5"
+  }
+}
